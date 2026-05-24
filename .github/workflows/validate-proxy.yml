@@ -1,0 +1,25 @@
+name: Validate proxy
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'all_proxies.txt'
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: TCP ping the proxy server
+        run: |
+          # Extract first proxy host:port from all_proxies.txt
+          line=$(head -n1 all_proxies.txt)
+          server=$(echo "$line" | sed -nE 's/.*server=([^&]+).*/\1/p')
+          port=$(echo "$line" | sed -nE 's/.*port=([0-9]+).*/\1/p')
+          echo "Pinging $server:$port"
+          # nc -z exits 0 if TCP handshake succeeds
+          timeout 10 bash -c "</dev/tcp/$server/$port" && echo "OK" || (echo "DOWN" && exit 1)

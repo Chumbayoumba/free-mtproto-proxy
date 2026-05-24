@@ -4,7 +4,7 @@
 > Works in regions where Telegram is throttled or blocked.
 
 [![Update](https://img.shields.io/badge/last%20update-auto-brightgreen)](./all_proxies.txt)
-[![Uptime](https://img.shields.io/badge/uptime-99%25-blue)](https://vnespiska.org)
+[![Uptime](https://img.shields.io/badge/uptime-99%25-blue)](https://vnespiska.uk)
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
 
 ## ⚡ Quick start
@@ -55,7 +55,7 @@ SECRET=$(head -c 16 /dev/urandom | xxd -ps)
 If port 9443 is blocked at your ISP, ~10 backup proxies on different
 servers and ports, auto-validated every 30 minutes:
 
-→ https://vnespiska.org
+→ https://vnespiska.uk
 
 ## 📡 Sponsor channel
 
@@ -80,7 +80,7 @@ grows the channel. The marginal cost of additional users is near zero
 on a $5/mo VPS.
 
 **Will it die?** It's been running since 2025. If it ever does,
-[vnespiska.org](https://vnespiska.org) always has 5–10 fresh validated
+[vnespiska.uk](https://vnespiska.uk) always has 5–10 fresh validated
 backups.
 
 ## 🤝 Want to share?
@@ -95,7 +95,7 @@ with no warranty.
 
 ## 🔗 Links
 
-- Site: https://vnespiska.org
+- Site: https://vnespiska.uk
 - Channel: https://t.me/vnespiska
 - Bot: https://t.me/vnespiskabot
 - Official MTProxy: https://github.com/TelegramMessenger/MTProxy

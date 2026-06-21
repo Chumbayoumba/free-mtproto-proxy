@@ -79,6 +79,10 @@ sensitive workflows, run your own with the snippet above.
 grows the channel. The marginal cost of additional users is near zero
 on a $5/mo VPS.
 
+**How do I check what's blocked at my ISP?** Run a free in-browser block
+test (Cheburnet Connect): https://glushilok.net/proverka/ — it shows which
+services are unreachable on your network and whether DPI/TSPU is present.
+
 **Will it die?** It's been running since 2025. If it ever does,
 [vnespiska.uk](https://vnespiska.uk) always has 5–10 fresh validated
 backups.
@@ -95,6 +99,9 @@ with no warranty.
 
 ## 🔗 Links
 
+- Site (RU): https://glushilok.net — free Telegram proxy + VPN, block checker
+- Check what's blocked for you: https://glushilok.net/proverka/
+- Guides (VLESS, Hiddify, routers): https://glushilok.net/guides/
 - Site: https://vnespiska.uk
 - Channel: https://t.me/vnespiska
 - Bot: https://t.me/vnespiskabot

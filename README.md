@@ -6,6 +6,7 @@
 [![Update](https://img.shields.io/badge/last%20update-auto-brightgreen)](./all_proxies.txt)
 [![Uptime](https://img.shields.io/badge/uptime-99%25-blue)](https://vnespiska.uk)
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
+[![Mirror](https://img.shields.io/badge/mirror%20(RU)-goida.win-success)](https://goida.win/)
 
 ## ⚡ Quick start
 
@@ -56,6 +57,7 @@ If port 9443 is blocked at your ISP, ~10 backup proxies on different
 servers and ports, auto-validated every 30 minutes:
 
 → https://vnespiska.uk
+→ https://goida.win (mirror that opens without VPN in Russia)
 
 ## 📡 Sponsor channel
 
@@ -99,6 +101,7 @@ with no warranty.
 
 ## 🔗 Links
 
+- Mirror not blocked in Russia: https://goida.win — Telegram proxy + VPN, whitelist bypass (RU)
 - Site (RU): https://glushilok.net — free Telegram proxy + VPN, block checker
 - Check what's blocked for you: https://glushilok.net/proverka/
 - Guides (VLESS, Hiddify, routers): https://glushilok.net/guides/

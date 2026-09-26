@@ -3,6 +3,7 @@
 > Free public MTProto proxy for Telegram. Server in NL, fake-TLS, no logs.
 > Works in regions where Telegram is throttled or blocked.
 
+[![WEB Proxy](https://img.shields.io/badge/NEW-WEB%20Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
 [![Update](https://img.shields.io/badge/last%20update-auto-brightgreen)](./all_proxies.txt)
 [![Uptime](https://img.shields.io/badge/uptime-99%25-blue)](https://vnespiska.uk)
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
@@ -22,6 +23,29 @@ Or copy parameters manually:
 | Port | `9443` |
 | Secret | `ee5b1977cd65b2b90aeea9a53a8d1120867461736b666c6f772e65676f722d6465762e7275` |
 | Type | MTProto (fake-TLS) |
+
+## 🆕 WEB proxy for Telegram Desktop — free
+
+Since August 2026 **Telegram Desktop 7.1.1+** supports a new proxy type, **WEB**: Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
+
+👉 **[CONNECT THE WEB PROXY](https://vnespiska.win/webproxy/)** (the button opens Telegram Desktop)
+
+| Field | Value |
+|-------|-------|
+| **Type** | `WEB` |
+| **Server** | `free.vnespiska.win` |
+| **Secret** | `9fc8d7d1aeee614bd5fa3b760da44dd3` |
+| **Client** | Telegram Desktop 7.1.1+ (Windows, macOS, Linux) |
+
+Link for Telegram Desktop (paste it into Saved Messages and click it there):
+
+```
+tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
+```
+
+> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. Mobile apps do not support WEB proxies yet, use the MTProto proxy above.
+
+---
 
 ## 📋 What's inside
 

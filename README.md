@@ -17,6 +17,9 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 > 🟢 **Обновлено: 02.10.2026 13:21 МСК** · рабочих прокси: **7** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
+> 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.1+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
+
+
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
@@ -52,7 +55,7 @@ Link for Telegram Desktop (paste it into Saved Messages and click it there):
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
-> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. Mobile apps do not support WEB proxies yet, use the MTProto proxy above.
+> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. Stable mobile apps do not support WEB proxies yet (only Telegram beta builds do), use the MTProto proxy above.
 
 ---
 

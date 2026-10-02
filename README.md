@@ -14,20 +14,19 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 02.10.2026 06:21 МСК** · рабочих прокси: **8** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 02.10.2026 13:21 МСК** · рабочих прокси: **7** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
 | 1 | `94.139.247.202` | `443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d)** |
-| 2 | `ppl.vpnpplvpn.top` | `8443` | 🟢 6 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 3 | `132.243.231.76` | `443` | 🟢 30 мс | **[⚡ Подключить](https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275)** |
-| 4 | `edge.turboass.live` | `443` | 🟡 84 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 5 | `host.white-dns.info` | `443` | 🟡 92 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 6 | `ultra.mishutkin.click` | `443` | 🟡 105 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
-| 7 | `90.156.216.188` | `8443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
-| 8 | `193.39.15.115` | `443` | 🟠 3093 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 2 | `edge.turboass.live` | `443` | 🟡 179 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 3 | `host.white-dns.info` | `443` | 🟠 212 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 4 | `ppl.vpnpplvpn.top` | `8443` | 🟠 302 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 5 | `ultra.mishutkin.click` | `443` | 🟠 241 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 6 | `193.39.15.115` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 7 | `stream.lovely.lat` | `443` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

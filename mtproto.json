@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:41:39+00:00",
+  "updated": "2026-10-02T22:21:23+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,23 +7,13 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "hyper.sosproxy.space",
-      "host": "hyper.sosproxy.space",
-      "port": 443,
-      "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 98,
-      "tg_url": "https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
-    },
-    {
       "server": "edge.turboass.live",
       "host": "edge.turboass.live",
       "port": 443,
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 536,
+      "ping_ms": 173,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
     },
     {
@@ -33,18 +23,28 @@
       "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 1069,
+      "ping_ms": 324,
       "tg_url": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
     },
     {
-      "server": "ultra.mishutkin.click",
-      "host": "ultra.mishutkin.click",
+      "server": "hyper.sosproxy.space",
+      "host": "hyper.sosproxy.space",
       "port": 443,
-      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+      "secret": "ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 193,
-      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+      "ping_ms": 99,
+      "tg_url": "https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d"
+    },
+    {
+      "server": "90.156.216.188",
+      "host": "90.156.216.188",
+      "port": 8443,
+      "secret": "ddee676f6f676c652e636f6de21ff0db1d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 3,
+      "tg_url": "https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d"
     },
     {
       "server": "live.lovely.lat",
@@ -53,7 +53,7 @@
       "secret": "eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 68,
+      "ping_ms": 117,
       "tg_url": "https://t.me/proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174"
     },
     {
@@ -63,8 +63,18 @@
       "secret": "ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 69,
+      "ping_ms": 70,
       "tg_url": "https://t.me/proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174"
+    },
+    {
+      "server": "193.39.15.115",
+      "host": "193.39.15.115",
+      "port": 443,
+      "secret": "dd585256032fd8a78a0602ddd90f9c981f",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 54,
+      "tg_url": "https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f"
     }
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-02T03:21:31+00:00",
+  "country": "RU",
+  "checked_from": "RU",
+  "type": "mtproto",
+  "price": "free",
+  "source": "https://t.me/vnespiska",
+  "proxies": [
+    {
+      "server": "94.139.247.202",
+      "host": "94.139.247.202",
+      "port": 443,
+      "secret": "dd6dc6c32df732ff33148c4217aa901c4d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 3,
+      "tg_url": "https://t.me/proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d"
+    },
+    {
+      "server": "ppl.vpnpplvpn.top",
+      "host": "ppl.vpnpplvpn.top",
+      "port": 8443,
+      "secret": "ddbd7949ea22934a3af773233bd1e6cd87",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 6,
+      "tg_url": "https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87"
+    },
+    {
+      "server": "132.243.231.76",
+      "host": "132.243.231.76",
+      "port": 443,
+      "secret": "ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 30,
+      "tg_url": "https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275"
+    },
+    {
+      "server": "edge.turboass.live",
+      "host": "edge.turboass.live",
+      "port": 443,
+      "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 84,
+      "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
+    {
+      "server": "host.white-dns.info",
+      "host": "host.white-dns.info",
+      "port": 443,
+      "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 92,
+      "tg_url": "https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4"
+    },
+    {
+      "server": "ultra.mishutkin.click",
+      "host": "ultra.mishutkin.click",
+      "port": 443,
+      "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 105,
+      "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
+    },
+    {
+      "server": "90.156.216.188",
+      "host": "90.156.216.188",
+      "port": 8443,
+      "secret": "ddee676f6f676c652e636f6de21ff0db1d",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 3,
+      "tg_url": "https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d"
+    },
+    {
+      "server": "193.39.15.115",
+      "host": "193.39.15.115",
+      "port": 443,
+      "secret": "dd585256032fd8a78a0602ddd90f9c981f",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 3093,
+      "tg_url": "https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f"
+    }
+  ]
+}

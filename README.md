@@ -20,7 +20,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 03.10.2026 01:21 МСК** · рабочих прокси: **7** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 03.10.2026 04:01 МСК** · рабочих прокси: **2** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.1+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -29,13 +29,8 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟡 173 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 2 | `ppl.vpnpplvpn.top` | `8443` | 🟠 324 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 3 | `hyper.sosproxy.space` | `443` | 🟡 99 мс | **[⚡ Подключить](https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d)** |
-| 4 | `90.156.216.188` | `8443` | 🟢 3 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
-| 5 | `live.lovely.lat` | `443` | 🟡 117 мс | **[⚡ Подключить](https://t.me/proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174)** |
-| 6 | `stream.lovely.lat` | `443` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174)** |
-| 7 | `193.39.15.115` | `443` | 🟢 54 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 1 | `193.39.15.115` | `443` | 🟢 63 мс | **[⚡ Подключить](https://t.me/proxy?server=193.39.15.115&port=443&secret=dd585256032fd8a78a0602ddd90f9c981f)** |
+| 2 | `90.156.216.188` | `8443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=90.156.216.188&port=8443&secret=ddee676f6f676c652e636f6de21ff0db1d)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

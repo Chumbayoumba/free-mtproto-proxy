@@ -6,15 +6,15 @@
     "type": "mtproto"
   },
   {
-    "server": "host.white-dns.info",
+    "server": "flow.mtproxy.cc",
     "port": 443,
-    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
+    "secret": "eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363",
     "type": "mtproto"
   },
   {
-    "server": "193.39.15.115",
+    "server": "host.white-dns.info",
     "port": 443,
-    "secret": "dd585256032fd8a78a0602ddd90f9c981f",
+    "secret": "ee3e85aac6e7bcc0ba3847479bff8ef2a4",
     "type": "mtproto"
   }
 ]

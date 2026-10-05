@@ -3,7 +3,9 @@
 <!-- GIVEAWAY:START -->
 <a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Giveaway: 3 × 90 days, 7 × 30 days of VPN, 30 × 20% discounts" width="100%"></a>
 
-> 🎁 **Giveaway until 10 October, 20:00 MSK:** 3 × 90-day and 7 × 30-day VPN subscriptions, 30 × 20% discounts. Free to enter in Telegram: **[join →](https://t.me/vnespiskabot?start=gw_github)** · +1 ticket per invited friend
+> 🎁 **Giveaway, winners drawn on 10 October at 20:00 MSK:** 3 × 90-day and 7 × 30-day VPN subscriptions, 30 × 20% discounts. Free to enter in Telegram, takes a minute: **[join →](https://t.me/vnespiskabot?start=gw_github)** · +1 ticket per invited friend
+>
+> 💡 Already a Geodema subscriber? Won days are added to your current plan.
 <!-- GIVEAWAY:END -->
 
 > Free public MTProto proxy for Telegram. Server in NL, fake-TLS, no logs.

@@ -22,7 +22,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 06.10.2026 09:21 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 06.10.2026 18:01 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.1+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -31,7 +31,9 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟡 158 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 1 | `edge.turboass.live` | `443` | 🟡 176 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `cluster.mtproxy.cc` | `443` | 🟡 174 мс | **[⚡ Подключить](https://t.me/proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363)** |
+| 3 | `flow.mtproxy.cc` | `443` | 🟡 94 мс | **[⚡ Подключить](https://t.me/proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

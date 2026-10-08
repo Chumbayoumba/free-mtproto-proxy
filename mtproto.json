@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:01:21+00:00",
+  "updated": "2026-10-08T13:41:10+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -13,8 +13,18 @@
       "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 78,
+      "ping_ms": 102,
       "tg_url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665"
+    },
+    {
+      "server": "132.243.231.76",
+      "host": "132.243.231.76",
+      "port": 443,
+      "secret": "ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275",
+      "type": "mtproto",
+      "country": "RU",
+      "ping_ms": 33,
+      "tg_url": "https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275"
     },
     {
       "server": "ultra.mishutkin.click",
@@ -23,7 +33,7 @@
       "secret": "eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 104,
+      "ping_ms": 171,
       "tg_url": "https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d"
     }
   ]

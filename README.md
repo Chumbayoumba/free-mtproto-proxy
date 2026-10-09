@@ -24,7 +24,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 09.10.2026 12:05 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 09.10.2026 20:00 МСК** · рабочих прокси: **8** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.2+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -33,16 +33,14 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `209.141.53.16` | `8443` | 🟡 173 мс | **[⚡ Подключить](https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d)** |
-| 2 | `day.vtoroe-dyhanie.space` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=day.vtoroe-dyhanie.space&port=443&secret=ee2b4b155565df4307acfb18b632c3c90079612e7275)** |
-| 3 | `edge.turboass.live` | `443` | 🟢 76 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 4 | `103.104.112.8` | `5222` | 🟠 217 мс | **[⚡ Подключить](https://t.me/proxy?server=103.104.112.8&port=5222&secret=eec8576be4484da99437c59af67c28ae447777772e6a696f2e636f6d)** |
-| 5 | `dns.dnsrender.info` | `443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 6 | `13.143.132.113` | `2083` | 🟢 28 мс | **[⚡ Подключить](https://t.me/proxy?server=13.143.132.113&port=2083&secret=ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d)** |
-| 7 | `yandex.ru.nclick.shop` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=yandex.ru.nclick.shop&port=443&secret=ee78ca074858b8c4b20ae5774a23a5834774696d657765622e636f6d)** |
-| 8 | `72.56.25.212` | `443` | 🟢 42 мс | **[⚡ Подключить](https://t.me/proxy?server=72.56.25.212&port=443&secret=ee7d026761b388c46302df84b4b812aef0706574726f766963682e7275)** |
-| 9 | `pub.ultra-fast.cc` | `443` | 🟢 11 мс | **[⚡ Подключить](https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee1b52048d6ed55deed67c31a7a99ad2cb7075622e756c7472612d666173742e6363)** |
-| 10 | `narniya.net` | `443` | 🟢 48 мс | **[⚡ Подключить](https://t.me/proxy?server=narniya.net&port=443&secret=eec63f2ff277626b5e1125d8898fa6b02d676f6f676c652e636f6d)** |
+| 1 | `212.134.174.23` | `45332` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=212.134.174.23&port=45332&secret=eea82d68aab6c4f875b23af6936f4a53847777772e62696e672e636f6d)** |
+| 2 | `209.141.53.16` | `8443` | 🟡 176 мс | **[⚡ Подключить](https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d)** |
+| 3 | `13.143.132.113` | `2083` | 🟢 31 мс | **[⚡ Подключить](https://t.me/proxy?server=13.143.132.113&port=2083&secret=ee0314a91166489d1779b1515c34eb2a3e7777772e636c6f7564666c6172652e636f6d)** |
+| 4 | `edge.turboass.live` | `443` | 🟡 124 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 5 | `ex.nine11.art` | `8443` | 🟡 180 мс | **[⚡ Подключить](https://t.me/proxy?server=ex.nine11.art&port=8443&secret=ddb868deed7e320d1c82ded5659fa673f2)** |
+| 6 | `eng.nine11.art` | `443` | 🟡 122 мс | **[⚡ Подключить](https://t.me/proxy?server=eng.nine11.art&port=443&secret=ddf1c77aa13b6f3c7ef18e29ab40e785da)** |
+| 7 | `web-bell.ngstream.top` | `443` | 🟠 256 мс | **[⚡ Подключить](https://t.me/proxy?server=web-bell.ngstream.top&port=443&secret=dd8b4cb8f0a1057a08a38a9b69fecbd55b)** |
+| 8 | `lastochka.cloud` | `443` | 🟢 35 мс | **[⚡ Подключить](https://t.me/proxy?server=lastochka.cloud&port=443&secret=ee808a439fd06ff8f421fbd35d65a445166c6173746f63686b612e636c6f7564)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

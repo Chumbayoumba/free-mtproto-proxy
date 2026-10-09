@@ -3,7 +3,9 @@
 <!-- GIVEAWAY:START -->
 <a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Giveaway: 3 × 90 days, 7 × 30 days of VPN, 30 × 20% discounts" width="100%"></a>
 
-> 🎁 **Giveaway, winners drawn on 10 October at 20:00 MSK:** 3 × 90-day and 7 × 30-day VPN subscriptions, 30 × 20% discounts. Free to enter in Telegram, takes a minute: **[join →](https://t.me/vnespiskabot?start=gw_github)** · +1 ticket per invited friend
+> 🔥 **Last chance: giveaway winners are drawn on 10 October at 20:00 MSK** &nbsp; [![time left](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.left_en&label=%E2%8F%B3%20time%20left&color=e53935&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github) [![entrants](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.participants&label=entrants&color=1a8be8&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github)
+>
+> 3 × 90-day and 7 × 30-day VPN subscriptions plus 30 × 20% discounts — 40 prizes, one per person, so the odds are good. Free to enter in Telegram, takes a minute: **[join now →](https://t.me/vnespiskabot?start=gw_github)** · +1 ticket per invited friend
 >
 > 💡 Already a Geodema subscriber? Won days are added to your current plan.
 <!-- GIVEAWAY:END -->
@@ -25,7 +27,7 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 > 🟢 **Обновлено: 09.10.2026 12:05 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.1+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
+> 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.2+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
 
 
 <!-- LIVE:START -->
@@ -49,7 +51,7 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 
 ## 🆕 WEB proxy for Telegram Desktop — free
 
-Since August 2026 **Telegram Desktop 7.1.1+** supports a new proxy type, **WEB**: Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
+Since August 2026 **Telegram Desktop 7.1.2+** supports a new proxy type, **WEB**: Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
 
 👉 **[CONNECT THE WEB PROXY](https://vnespiska.win/webproxy/)** (the button opens Telegram Desktop)
 
@@ -58,7 +60,7 @@ Since August 2026 **Telegram Desktop 7.1.1+** supports a new proxy type, **WEB**
 | **Type** | `WEB` |
 | **Server** | `free.vnespiska.win` |
 | **Secret** | `9fc8d7d1aeee614bd5fa3b760da44dd3` |
-| **Client** | Telegram Desktop 7.1.1+ (Windows, macOS, Linux) |
+| **Client** | Telegram Desktop 7.1.2+ (Windows, macOS, Linux) |
 
 Link for Telegram Desktop (paste it into Saved Messages and click it there):
 
@@ -66,7 +68,7 @@ Link for Telegram Desktop (paste it into Saved Messages and click it there):
 tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
-> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. Stable mobile apps do not support WEB proxies yet (only Telegram beta builds do), use the MTProto proxy above.
+> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. On Android, WEB proxies work in Telegram 12.10.4+ (experimental); on iPhone use the MTProto proxy above.
 
 ---
 

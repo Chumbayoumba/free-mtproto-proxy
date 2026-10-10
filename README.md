@@ -24,7 +24,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 10.10.2026 01:30 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 10.10.2026 09:00 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.2+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -33,16 +33,16 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `209.141.53.16` | `8443` | 🟡 168 мс | **[⚡ Подключить](https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d)** |
-| 2 | `dns.dnsrender.info` | `443` | 🟡 102 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 3 | `two.dedconnect.cc` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=two.dedconnect.cc&port=443&secret=eeddb8caf8cc8af58676f5e60385f51c0d74776f2e646564636f6e6e6563742e6363)** |
-| 4 | `one.dedconnect.cc` | `443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=one.dedconnect.cc&port=443&secret=ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363)** |
-| 5 | `edge.turboass.live` | `443` | 🟢 59 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 6 | `ex.nine11.art` | `8443` | 🟠 244 мс | **[⚡ Подключить](https://t.me/proxy?server=ex.nine11.art&port=8443&secret=ddb868deed7e320d1c82ded5659fa673f2)** |
-| 7 | `38.76.217.171` | `443` | 🟠 266 мс | **[⚡ Подключить](https://t.me/proxy?server=38.76.217.171&port=443&secret=ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d)** |
-| 8 | `38.76.217.171` | `28301` | 🟠 281 мс | **[⚡ Подключить](https://t.me/proxy?server=38.76.217.171&port=28301&secret=ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d)** |
-| 9 | `edge.tidalcache.com` | `443` | 🟢 10 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275)** |
-| 10 | `eng.nine11.art` | `443` | 🟠 279 мс | **[⚡ Подключить](https://t.me/proxy?server=eng.nine11.art&port=443&secret=ddf1c77aa13b6f3c7ef18e29ab40e785da)** |
+| 1 | `dns.dnsrender.info` | `443` | 🟡 121 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 2 | `209.141.53.16` | `8443` | 🟡 174 мс | **[⚡ Подключить](https://t.me/proxy?server=209.141.53.16&port=8443&secret=ee43c5ab53316bbc78bf00bf8c3ccf120c636c6f7564666c6172652e636f6d)** |
+| 3 | `edge.tidalcache.com` | `443` | 🟢 47 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf6d2e6265626f6f2e7275)** |
+| 4 | `38.76.217.171` | `443` | 🟠 233 мс | **[⚡ Подключить](https://t.me/proxy?server=38.76.217.171&port=443&secret=ee154fc629b5bcafe611bdb3c0cb58d2887777772e6d6963726f736f66742e636f6d)** |
+| 5 | `edge.turboass.live` | `443` | 🟡 179 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 6 | `host.white-dns.info` | `443` | 🟡 115 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 7 | `ex.nine11.art` | `8443` | 🟠 231 мс | **[⚡ Подключить](https://t.me/proxy?server=ex.nine11.art&port=8443&secret=ddb868deed7e320d1c82ded5659fa673f2)** |
+| 8 | `eng.nine11.art` | `443` | 🟠 213 мс | **[⚡ Подключить](https://t.me/proxy?server=eng.nine11.art&port=443&secret=ddf1c77aa13b6f3c7ef18e29ab40e785da)** |
+| 9 | `quiet-wolf.ngstream.top` | `443` | 🟢 24 мс | **[⚡ Подключить](https://t.me/proxy?server=quiet-wolf.ngstream.top&port=443&secret=dd0f0b9990c04aada86e0614b29d099407)** |
+| 10 | `one.dedconnect.cc` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=one.dedconnect.cc&port=443&secret=ee2c16e567cf67a859e3fed5ff134e79226f6e652e646564636f6e6e6563742e6363)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

@@ -1,15 +1,5 @@
 # 🔓 Free MTProto Proxy — Stable, Daily Updated
 
-<!-- GIVEAWAY:START -->
-<a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Giveaway: 3 × 90 days, 7 × 30 days of VPN, 30 × 20% discounts" width="100%"></a>
-
-> 🔥 **Last chance: giveaway winners are drawn on 10 October at 20:00 MSK** &nbsp; [![time left](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.left_en&label=%E2%8F%B3%20time%20left&color=e53935&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github) [![entrants](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.participants&label=entrants&color=1a8be8&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github)
->
-> 3 × 90-day and 7 × 30-day VPN subscriptions plus 30 × 20% discounts — 40 prizes, one per person, so the odds are good. Free to enter in Telegram, takes a minute: **[join now →](https://t.me/vnespiskabot?start=gw_github)** · +1 ticket per invited friend
->
-> 💡 Already a Geodema subscriber? Won days are added to your current plan.
-<!-- GIVEAWAY:END -->
-
 > Free public MTProto proxy for Telegram. Server in NL, fake-TLS, no logs.
 > Works in regions where Telegram is throttled or blocked.
 

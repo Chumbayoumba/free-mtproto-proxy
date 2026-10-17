@@ -17,7 +17,7 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 > 🟢 **Обновлено: 17.10.2026 21:28 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **On a computer? Use our WEB proxy** (Telegram Desktop 7.1.2+): Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `free.vnespiska.win` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
+> 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
 
 
 <!-- LIVE:START -->
@@ -39,26 +39,28 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 >
 > 🛑 Telegram doesn't work even with a proxy (mobile internet white lists in Russia)? → **[VPN in @vnespiskabot](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_en)**: Basic plan free forever, Premium 239 ₽ with promo code `VNESPISKA`.
 
-## 🆕 WEB proxy for Telegram Desktop — free
+## 🆕 WEB proxy for Telegram on PC, Android and iPhone — free
 
-Since August 2026 **Telegram Desktop 7.1.2+** supports a new proxy type, **WEB**: Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
+Since August 2026 Telegram supports a new proxy type, **WEB** (desktop first; Android and iPhone since 8 October 2026): Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
 
-👉 **[CONNECT THE WEB PROXY](https://vnespiska.win/webproxy/)** (the button opens Telegram Desktop)
+👉 **[CONNECT THE WEB PROXY](https://vnespiska.win/webproxy/)** (the button opens Telegram)
+
+> 🔁 **The address changed on 17.10.2026:** the old `free.vnespiska.win` is blocked in Russia — if you added it, add the new one.
 
 | Field | Value |
 |-------|-------|
 | **Type** | `WEB` |
-| **Server** | `free.vnespiska.win` |
+| **Server** | `webproxy.stream` |
 | **Secret** | `9fc8d7d1aeee614bd5fa3b760da44dd3` |
-| **Client** | Telegram Desktop 7.1.2+ (Windows, macOS, Linux) |
+| **Client** | Telegram for Windows, macOS, Linux, Android and iPhone (latest version) |
 
-Link for Telegram Desktop (paste it into Saved Messages and click it there):
+Link for Telegram (paste it into Saved Messages and tap it there):
 
 ```
-tg://webproxy?server=free.vnespiska.win&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
+tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
-> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. On Android, WEB proxies work in Telegram 12.10.4+ (experimental); on iPhone use the MTProto proxy above.
+> ⚠️ Do not open `t.me/webproxy?…` in a browser: t.me does not know this link type yet and shows an unrelated channel. On a phone: Settings → Data and Storage → Proxy → Add Proxy → WEB.
 
 ---
 

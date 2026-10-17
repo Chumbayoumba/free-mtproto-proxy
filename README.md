@@ -3,7 +3,7 @@
 > Free public MTProto proxy for Telegram. Server in NL, fake-TLS, no logs.
 > Works in regions where Telegram is throttled or blocked.
 
-[![WEB Proxy](https://img.shields.io/badge/NEW-WEB%20Proxy-7c3aed?logo=telegram)](https://vnespiska.win/webproxy/)
+[![WEB Proxy](https://img.shields.io/badge/NEW-WEB%20Proxy-7c3aed?logo=telegram)](https://webproxy.stream/)
 [![Update](https://img.shields.io/badge/last%20update-auto-brightgreen)](./all_proxies.txt)
 [![Uptime](https://img.shields.io/badge/uptime-99%25-blue)](https://vnespiska.win)
 [![Channel](https://img.shields.io/badge/Telegram-@vnespiska-26A5E4)](https://t.me/vnespiska)
@@ -17,7 +17,7 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 > 🟢 **Обновлено: 18.10.2026 01:19 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://vnespiska.win/webproxy/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
+> 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://webproxy.stream/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
 
 
 <!-- LIVE:START -->
@@ -43,7 +43,7 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 
 Since August 2026 Telegram supports a new proxy type, **WEB** (desktop first; Android and iPhone since 8 October 2026): Telegram traffic travels over plain HTTPS/WebSocket like an ordinary website, which makes it much harder to detect and block. The proxy never sees your messages, it only relays already encrypted data.
 
-👉 **[CONNECT THE WEB PROXY](https://vnespiska.win/webproxy/)** (the button opens Telegram)
+👉 **[CONNECT THE WEB PROXY](https://webproxy.stream/)** (the button opens Telegram)
 
 > 🔁 **The address changed on 17.10.2026:** the old `free.vnespiska.win` is blocked in Russia — if you added it, add the new one.
 

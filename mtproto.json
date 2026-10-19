@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:36:07+00:00",
+  "updated": "2026-10-19T17:52:31+00:00",
   "country": "RU",
   "checked_from": "RU",
   "type": "mtproto",
@@ -7,44 +7,14 @@
   "source": "https://t.me/vnespiska",
   "proxies": [
     {
-      "server": "drift.lite64.xyz",
-      "host": "drift.lite64.xyz",
+      "server": "drift.lite64.top",
+      "host": "drift.lite64.top",
       "port": 443,
       "secret": "ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465",
       "type": "mtproto",
       "country": "RU",
-      "ping_ms": 186,
-      "tg_url": "https://t.me/proxy?server=drift.lite64.xyz&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465"
-    },
-    {
-      "server": "amber-yarrow.velvetoak.work",
-      "host": "amber-yarrow.velvetoak.work",
-      "port": 443,
-      "secret": "ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 153,
-      "tg_url": "https://t.me/proxy?server=amber-yarrow.velvetoak.work&port=443&secret=ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465"
-    },
-    {
-      "server": "seven.mtproxy.pw",
-      "host": "seven.mtproxy.pw",
-      "port": 443,
-      "secret": "ee1cc4469f48e510ff94041731920d66986c69746536342e73697465",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 122,
-      "tg_url": "https://t.me/proxy?server=seven.mtproxy.pw&port=443&secret=ee1cc4469f48e510ff94041731920d66986c69746536342e73697465"
-    },
-    {
-      "server": "iris.lite64.top",
-      "host": "iris.lite64.top",
-      "port": 443,
-      "secret": "ee16e2ce1e9674cfc5e517fcaa2fed58b46c69746536342e73697465",
-      "type": "mtproto",
-      "country": "RU",
-      "ping_ms": 308,
-      "tg_url": "https://t.me/proxy?server=iris.lite64.top&port=443&secret=ee16e2ce1e9674cfc5e517fcaa2fed58b46c69746536342e73697465"
+      "ping_ms": 71,
+      "tg_url": "https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465"
     }
   ]
 }

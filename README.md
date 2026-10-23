@@ -14,7 +14,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 23.10.2026 21:28 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 24.10.2026 02:12 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://webproxy.stream/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -23,16 +23,16 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `spb-ee.spiderservice.vip` | `443` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275)** |
-| 2 | `condor-granite.driftquill…` | `443` | 🟡 111 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
-| 3 | `forest.lite64.xyz` | `443` | 🟡 107 мс | **[⚡ Подключить](https://t.me/proxy?server=forest.lite64.xyz&port=443&secret=ee4093e1e797a9fe07f1a9d90a96b9054d6c69746536342e73697465)** |
-| 4 | `dolphin.lite64.xyz` | `443` | 🟡 99 мс | **[⚡ Подключить](https://t.me/proxy?server=dolphin.lite64.xyz&port=443&secret=ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465)** |
-| 5 | `granite-monarch.velvetoak…` | `443` | 🟢 75 мс | **[⚡ Подключить](https://t.me/proxy?server=granite-monarch.velvetoak.work&port=443&secret=eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465)** |
-| 6 | `amber-yarrow.velvetoak.work` | `443` | 🟡 98 мс | **[⚡ Подключить](https://t.me/proxy?server=amber-yarrow.velvetoak.work&port=443&secret=ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465)** |
-| 7 | `89.125.156.88` | `443` | 🟢 55 мс | **[⚡ Подключить](https://t.me/proxy?server=89.125.156.88&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 8 | `49.12.217.239` | `8443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
-| 9 | `hyper.sosproxy.space` | `443` | 🟡 168 мс | **[⚡ Подключить](https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d)** |
-| 10 | `condor-granite.velvetoak.…` | `443` | 🟡 101 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.velvetoak.work&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
+| 1 | `spb-ee.spiderservice.vip` | `443` | 🟢 29 мс | **[⚡ Подключить](https://t.me/proxy?server=spb-ee.spiderservice.vip&port=443&secret=ee6434317afacc4e4505a2c5a79a75c5076164732e78352e7275)** |
+| 2 | `amsterdam.geodns.info` | `443` | 🟡 173 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 3 | `condor-granite.driftquill…` | `443` | 🟡 111 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
+| 4 | `dolphin.lite64.xyz` | `443` | 🟢 67 мс | **[⚡ Подключить](https://t.me/proxy?server=dolphin.lite64.xyz&port=443&secret=ee74250693dd7086e387a9003d7cfa87c96c69746536342e73697465)** |
+| 5 | `granite-monarch.velvetoak…` | `443` | 🟡 147 мс | **[⚡ Подключить](https://t.me/proxy?server=granite-monarch.velvetoak.work&port=443&secret=eea9b8c069dc3623d6e4ecafa7387b13c56c69746536342e73697465)** |
+| 6 | `amber-yarrow.velvetoak.work` | `443` | 🟡 191 мс | **[⚡ Подключить](https://t.me/proxy?server=amber-yarrow.velvetoak.work&port=443&secret=ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465)** |
+| 7 | `49.12.217.239` | `8443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
+| 8 | `89.125.156.88` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=89.125.156.88&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 9 | `condor-granite.velvetoak.…` | `443` | 🟡 141 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.velvetoak.work&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
+| 10 | `ember.lite64.xyz` | `443` | 🟡 104 мс | **[⚡ Подключить](https://t.me/proxy?server=ember.lite64.xyz&port=443&secret=eebc9cdd0ae277758e7e5044292af297d56c69746536342e73697465)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

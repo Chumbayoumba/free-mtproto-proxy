@@ -6,9 +6,21 @@
     "type": "mtproto"
   },
   {
-    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "server": "amsterdam.geodns.info",
     "port": 443,
-    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e6363",
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "ui.geodns.info",
+    "port": 4455,
+    "secret": "ee79e344818749bd7ac519130220c25d09",
+    "type": "mtproto"
+  },
+  {
+    "server": "super.alotaxi.info",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275",
     "type": "mtproto"
   },
   {
@@ -18,33 +30,15 @@
     "type": "mtproto"
   },
   {
-    "server": "amsterdam.geodns.info",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "home.dnsrender.info",
-    "port": 443,
-    "secret": "ee79e344818749bd7ac519130220c25d09",
-    "type": "mtproto"
-  },
-  {
-    "server": "mkima.davay.click",
-    "port": 443,
-    "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-    "type": "mtproto"
-  },
-  {
     "server": "edge.tidalcache.com",
     "port": 443,
     "secret": "ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
     "type": "mtproto"
   },
   {
-    "server": "edge.turboass.live",
+    "server": "31.130.133.59",
     "port": 443,
-    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "secret": "ee79612e72754283dd67718731403044",
     "type": "mtproto"
   },
   {
@@ -54,9 +48,15 @@
     "type": "mtproto"
   },
   {
-    "server": "poppy-elm.velvetoak.work",
+    "server": "edge.turboass.live",
     "port": 443,
-    "secret": "eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465",
+    "secret": "ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+    "type": "mtproto"
+  },
+  {
+    "server": "redflag.yazaebalsyadelatproxy.co.uk",
+    "port": 443,
+    "secret": "ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363",
     "type": "mtproto"
   }
 ]

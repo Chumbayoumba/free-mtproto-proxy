@@ -14,7 +14,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 30.10.2026 20:38 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 31.10.2026 02:52 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://webproxy.stream/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -23,7 +23,16 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `fresco-geyser.driftquill.…` | `443` | 🟡 152 мс | **[⚡ Подключить](https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465)** |
+| 1 | `dl3.soft98.net` | `2053` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 2 | `fresco-geyser.driftquill.…` | `443` | 🟢 73 мс | **[⚡ Подключить](https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465)** |
+| 3 | `31.130.133.59` | `443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 4 | `49.12.217.239` | `8443` | 🟡 97 мс | **[⚡ Подключить](https://t.me/proxy?server=49.12.217.239&port=8443&secret=ee1603010200010001fc030486e24c3add)** |
+| 5 | `178.104.36.158` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=178.104.36.158&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01)** |
+| 6 | `condor-granite.driftquill…` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
+| 7 | `super.alotaxi.info` | `4515` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
+| 8 | `echo.lite64.xyz` | `443` | 🟡 125 мс | **[⚡ Подключить](https://t.me/proxy?server=echo.lite64.xyz&port=443&secret=ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465)** |
+| 9 | `mobile.mishutkin.click` | `443` | 🟢 68 мс | **[⚡ Подключить](https://t.me/proxy?server=mobile.mishutkin.click&port=443&secret=eed052c02f3e13fa55568670fa5df149086d6f62696c652e6d69736875746b696e2e636c69636b)** |
+| 10 | `hyper.sosproxy.space` | `443` | 🟡 153 мс | **[⚡ Подключить](https://t.me/proxy?server=hyper.sosproxy.space&port=443&secret=ee44adc4da5280b196fa8192ffb712cef964726976652e676f6f676c652e636f6d)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

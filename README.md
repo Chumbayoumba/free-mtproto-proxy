@@ -14,7 +14,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 09.11.2026 23:39 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 10.11.2026 07:07 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://webproxy.stream/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -23,16 +23,16 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `31.130.133.59` | `443` | 🟢 47 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
-| 2 | `dl3.soft98.net` | `2053` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 3 | `186.246.4.174` | `8443` | 🟢 2 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 4 | `ppl.vpnpplvpn.top` | `8443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 5 | `route.lovely.lat` | `443` | 🟢 70 мс | **[⚡ Подключить](https://t.me/proxy?server=route.lovely.lat&port=443&secret=eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275)** |
-| 6 | `condor-granite.driftquill…` | `443` | 🟢 72 мс | **[⚡ Подключить](https://t.me/proxy?server=condor-granite.driftquill.click&port=443&secret=ee5fe2bfe62a117d599b9a011c3b9242516c69746536342e73697465)** |
-| 7 | `fresco-geyser.driftquill.…` | `443` | 🟢 76 мс | **[⚡ Подключить](https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465)** |
-| 8 | `poppy-elm.velvetoak.work` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465)** |
-| 9 | `echo.lite64.xyz` | `443` | 🟢 68 мс | **[⚡ Подключить](https://t.me/proxy?server=echo.lite64.xyz&port=443&secret=ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465)** |
-| 10 | `amsterdam.geodns.info` | `443` | 🟡 97 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 1 | `html.geo-cdn.ru` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 2 | `amsterdam.geodns.info` | `443` | 🟢 48 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 3 | `31.130.133.59` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 4 | `dl3.soft98.net` | `2053` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 5 | `host.white-dns.info` | `443` | 🟢 43 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 6 | `sumi71.mosswren.vip` | `443` | 🟢 64 мс | **[⚡ Подключить](https://t.me/proxy?server=sumi71.mosswren.vip&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b73756d6937312e6d6f73737772656e2e766970)** |
+| 7 | `ultra.mishutkin.click` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 8 | `poppy-elm.velvetoak.work` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465)** |
+| 9 | `echo.lite64.xyz` | `443` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=echo.lite64.xyz&port=443&secret=ee236260970e6f0e824d88f8d443a912b46c69746536342e73697465)** |
+| 10 | `fresco-geyser.driftquill.…` | `443` | 🟢 67 мс | **[⚡ Подключить](https://t.me/proxy?server=fresco-geyser.driftquill.click&port=443&secret=ee9991cf136c504f3567fc8d3765529bfe6c69746536342e73697465)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.

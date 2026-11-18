@@ -14,7 +14,7 @@
 Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed automatically every 2 hours and contains only proxies that connected from a Russian server.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 18.11.2026 01:26 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 18.11.2026 10:42 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Use our WEB proxy on PC, Android and iPhone:** Telegram traffic looks like ordinary HTTPS, so it is harder to block. **[Connect in one click →](https://webproxy.stream/)** · server `webproxy.stream` · secret `9fc8d7d1aeee614bd5fa3b760da44dd3` · type **WEB**
@@ -23,16 +23,16 @@ Tap **⚡ Connect** on a device with Telegram installed. The list is refreshed a
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `dl3.soft98.net` | `2053` | 🟢 40 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 2 | `tg6.turboass.live` | `443` | 🟡 144 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
-| 3 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 59 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c6170726f78792e6363)** |
-| 4 | `186.246.4.174` | `8443` | 🟢 2 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 5 | `ppl.vpnpplvpn.top` | `8443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
-| 6 | `host.white-dns.info` | `443` | 🟡 95 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 7 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.co.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363)** |
-| 8 | `fast.proxynet.tech` | `443` | 🟢 68 мс | **[⚡ Подключить](https://t.me/proxy?server=fast.proxynet.tech&port=443&secret=ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368)** |
-| 9 | `poppy-elm.velvetoak.work` | `443` | 🟢 63 мс | **[⚡ Подключить](https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465)** |
-| 10 | `ru.mishutkin.click` | `443` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=ru.mishutkin.click&port=443&secret=eeb3488e94c4736494021f7b01c7ecf6bf72752e6d69736875746b696e2e636c69636b)** |
+| 1 | `host.white-dns.info` | `443` | 🟡 133 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 2 | `dl3.soft98.net` | `2053` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 3 | `tg6.turboass.live` | `443` | 🟢 51 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
+| 4 | `31.130.133.59` | `443` | 🟢 46 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 5 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 62 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a616562616c73796164656c617470726f78792e63)** |
+| 6 | `186.246.4.174` | `8443` | 🟢 4 мс | **[⚡ Подключить](https://t.me/proxy?server=186.246.4.174&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 7 | `ppl.vpnpplvpn.top` | `8443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=ppl.vpnpplvpn.top&port=8443&secret=ddbd7949ea22934a3af773233bd1e6cd87)** |
+| 8 | `drift.lite64.top` | `443` | 🟢 67 мс | **[⚡ Подключить](https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465)** |
+| 9 | `topaz.hollowfern.sbs` | `443` | 🟢 66 мс | **[⚡ Подключить](https://t.me/proxy?server=topaz.hollowfern.sbs&port=443&secret=eee37d2ac00492bf7c77672c84a4a00c43746f70617a2e686f6c6c6f776665726e2e736273)** |
+| 10 | `poppy-elm.velvetoak.work` | `443` | 🟢 69 мс | **[⚡ Подключить](https://t.me/proxy?server=poppy-elm.velvetoak.work&port=443&secret=eea91e98f1ebfdd879ca0f45e6c6b655026c69746536342e73697465)** |
 <!-- LIVE:END -->
 
 > 📢 Free proxies live for hours, not weeks. **Fresh ones every hour in the Telegram channel [@vnespiska](https://t.me/+FhRJPseOXOszZGM6)** (~4 000 subscribers), or get one instantly from the bot **[@vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_en)**.
